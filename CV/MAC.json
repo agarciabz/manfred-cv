@@ -1,0 +1,195 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Agustin",
+      "surnames": "Garcia",
+      "title": "Frontend developer at Plug And Play Tech Center",
+      "description": "I'm a frontend developer working in Valencia, mostly in enterprise projects using Angular. I like to learn new tech things constantly and I want to become an expert. I am very quality-oriented and I always try to implement best practices.\n",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0b52c278-fc7c-4386-b0da-eb3ea533c636_t119o.png"
+      },
+      "location": {
+        "notes": "Valencia, Valencian Community, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/agarciabz/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/agarciabz"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/agarciabz"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Everis",
+          "image": {
+            "alt": "Everis",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8b28787e-b90e-454a-94ec-4f2ff554ce7b_08ce6c7fc6b466a44d3b.png"
+          },
+          "URL": "http://everis.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2021-03-31",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arhis"
+        },
+        "roles": [
+          {
+            "name": "Data integration developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2018-08-31",
+            "competences": [
+              {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
+                "name": "master-data-management",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plug And Play",
+          "image": {
+            "alt": "Plug And Play",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/09d025da-0ccf-436f-ac8e-b17297f56056_9k2nz.jpg"
+          },
+          "URL": "http://www.plugandplaytechcenter.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Working in the implementation of the Playbook platform. Development of modules, including UI components, logic and forms validation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "NgRx",
+                "type": "technology"
+              },
+              {
+                "name": "tailwind-css",
+                "type": "technology"
+              },
+              {
+                "name": "nrwl-nx",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's Degree in Informatics Engineering",
+        "startDate": "2012-01-01",
+        "finishDate": "2017-01-01",
+        "institution": {
+          "name": "Universitat Politecnica de Valencia",
+          "URL": "https://www.upv.es/titulaciones/GII/index-en.html",
+          "image": {
+            "alt": "Bachelor's Degree in Informatics Engineering",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a9d1ebd6-e54c-498c-821d-db8d91d50d22_zphuv.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/agarciabz/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
