@@ -11,8 +11,8 @@
       "title": "Frontend developer at Plug And Play Tech Center",
       "description": "I'm a frontend developer working in Valencia, mostly in enterprise projects using Angular. I like to learn new tech things constantly and I want to become an expert. I am very quality-oriented and I always try to implement best practices.\n",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0b52c278-fc7c-4386-b0da-eb3ea533c636_t119o.png"
+        "alt": "Foto 2022 edit.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/f5dd6c9b-e3c1-431e-afc0-654e848dc28b_foto-2022-edit.jpeg"
       },
       "location": {
         "notes": "Valencia, Valencian Community, ES"
@@ -20,25 +20,68 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/agarciabz/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/agarciabz"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/agarciabz"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/agarciabz/"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Plug And Play",
+          "image": {
+            "alt": "Plug And Play",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/09d025da-0ccf-436f-ac8e-b17297f56056_9k2nz.jpg"
+          },
+          "URL": "http://www.plugandplaytechcenter.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Working in the implementation of the Playbook platform. Development of modules, including UI components, logic and forms validation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "NgRx",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nrwl-nx",
+                "type": "technology"
+              },
+              {
+                "name": "tailwind-css",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Everis",
@@ -87,53 +130,62 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Plug And Play",
-          "image": {
-            "alt": "Plug And Play",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/09d025da-0ccf-436f-ac8e-b17297f56056_9k2nz.jpg"
-          },
-          "URL": "http://www.plugandplaytechcenter.com"
-        },
-        "roles": [
-          {
-            "name": "Frontend developer",
-            "startDate": "2021-03-01",
-            "challenges": [
-              {
-                "description": "Working in the implementation of the Playbook platform. Development of modules, including UI components, logic and forms validation."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NgRx",
-                "type": "technology"
-              },
-              {
-                "name": "tailwind-css",
-                "type": "technology"
-              },
-              {
-                "name": "nrwl-nx",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NgRx",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -172,7 +224,7 @@
           "type": "technology"
         },
         {
-          "name": "TypeScript",
+          "name": "Azure",
           "type": "technology"
         },
         {
@@ -180,7 +232,7 @@
           "type": "technology"
         },
         {
-          "name": "Azure",
+          "name": "TypeScript",
           "type": "technology"
         }
       ],
