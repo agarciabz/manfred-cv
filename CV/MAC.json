@@ -8,7 +8,7 @@
     "profile": {
       "name": "Agustin",
       "surnames": "Garcia",
-      "title": "Frontend developer at Plug And Play Tech Center",
+      "title": "Frontend developer",
       "description": "I'm a frontend developer working in Valencia, mostly in enterprise projects using Angular. I like to learn new tech things constantly and I want to become an expert. I am very quality-oriented and I always try to implement best practices.\n",
       "avatar": {
         "alt": "Foto 2022 edit.jpeg",
@@ -229,6 +229,10 @@
         },
         {
           "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
           "type": "technology"
         },
         {
