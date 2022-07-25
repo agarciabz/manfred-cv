@@ -35,6 +35,18 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/agarciabz/"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Monorepos explained",
+        "type": "other",
+        "URL": "https://monorepo.tools/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
