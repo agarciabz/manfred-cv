@@ -161,6 +161,18 @@
       },
       {
         "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
@@ -174,18 +186,6 @@
       {
         "skill": {
           "name": "NgRx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Storybook",
           "type": "technology"
         }
       },
