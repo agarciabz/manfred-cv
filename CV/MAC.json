@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,6 @@
       "name": "Agustin",
       "surnames": "Garcia",
       "title": "Frontend developer",
-      "description": "",
       "avatar": {
         "alt": "Foto 2022 edit.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/f5dd6c9b-e3c1-431e-afc0-654e848dc28b_foto-2022-edit.jpeg"
@@ -17,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -46,17 +44,40 @@
         "URL": "https://monorepo.tools/",
         "authors": [
           {
-            "name": "",
-            "surnames": "",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Tangent",
+          "URL": "https://www.tangent.co.uk/"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Plug And Play",
@@ -107,11 +128,6 @@
             "name": "Frontend developer",
             "startDate": "2018-08-01",
             "finishDate": "2021-03-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -134,11 +150,6 @@
             "name": "Data integration developer",
             "startDate": "2015-11-01",
             "finishDate": "2018-08-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "ETL",
@@ -157,12 +168,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -218,7 +227,6 @@
         "finishDate": "2017-01-01",
         "institution": {
           "name": "Universitat Politecnica de Valencia",
-          "description": "",
           "URL": "https://www.upv.es/titulaciones/GII/index-en.html",
           "image": {
             "alt": "Bachelor's Degree in Informatics Engineering",
@@ -275,23 +283,6 @@
         "Full-stack Developer",
         "Software Architect"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "RxJS",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
