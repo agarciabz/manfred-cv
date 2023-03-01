@@ -9,7 +9,7 @@
       "name": "Agustin",
       "surnames": "Garcia",
       "title": "Frontend developer",
-      "description": "I'm a frontend developer working in Valencia, mostly in enterprise projects using Angular. I like to learn new tech things constantly and I want to become an expert. I am very quality-oriented and I always try to implement best practices.\n",
+      "description": "",
       "avatar": {
         "alt": "Foto 2022 edit.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/f5dd6c9b-e3c1-431e-afc0-654e848dc28b_foto-2022-edit.jpeg"
@@ -46,9 +46,12 @@
         "URL": "https://monorepo.tools/",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -104,6 +107,11 @@
             "name": "Frontend developer",
             "startDate": "2018-08-01",
             "finishDate": "2021-03-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -126,6 +134,11 @@
             "name": "Data integration developer",
             "startDate": "2015-11-01",
             "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "ETL",
@@ -205,6 +218,7 @@
         "finishDate": "2017-01-01",
         "institution": {
           "name": "Universitat Politecnica de Valencia",
+          "description": "",
           "URL": "https://www.upv.es/titulaciones/GII/index-en.html",
           "image": {
             "alt": "Bachelor's Degree in Informatics Engineering",
@@ -263,5 +277,21 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "RxJS",
+        "type": "technology"
+      }
+    ]
   }
 }
