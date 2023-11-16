@@ -184,6 +184,12 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jest",
           "type": "technology"
         }
@@ -191,6 +197,12 @@
       {
         "skill": {
           "name": "NgRx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -328,6 +340,10 @@
     "mainStackTechs": [
       {
         "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
