@@ -184,6 +184,18 @@
       },
       {
         "skill": {
+          "name": "Apollo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -202,6 +214,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -209,6 +227,12 @@
       {
         "skill": {
           "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
           "type": "technology"
         }
       },
