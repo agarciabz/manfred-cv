@@ -1,52 +1,49 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Agustin",
       "surnames": "Garcia",
       "title": "Frontend developer",
+      "description": "I'm a frontend developer working in Valencia, mostly in enterprise projects using Angular. I like to learn new tech things constantly and I want to become an expert. I am very quality-oriented and I always try to implement best practices.\n",
       "avatar": {
-        "alt": "Foto 2022 edit.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/f5dd6c9b-e3c1-431e-afc0-654e848dc28b_foto-2022-edit.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/f5dd6c9b-e3c1-431e-afc0-654e848dc28b_foto-2022-edit.jpeg",
+        "alt": "Foto 2022 edit.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
         "municipality": "Valencia"
       }
     },
+    "recommendations": [
+      {
+        "title": "Monorepos explained",
+        "type": "other",
+        "URL": "https://monorepo.tools/"
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/agarciabz/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/agarciabz"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/agarciabz"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/agarciabz/"
-      }
-    ],
-    "recommendations": [
-      {
-        "title": "Monorepos explained",
-        "type": "other",
-        "URL": "https://monorepo.tools/",
-        "authors": [
-          {
-            "title": "Author"
-          }
-        ]
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
       }
     ]
   },
@@ -82,8 +79,8 @@
         "organization": {
           "name": "Plug And Play",
           "image": {
-            "alt": "Plug And Play",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/09d025da-0ccf-436f-ac8e-b17297f56056_9k2nz.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/09d025da-0ccf-436f-ac8e-b17297f56056_9k2nz.jpg",
+            "alt": "Plug And Play"
           },
           "URL": "http://www.plugandplaytechcenter.com"
         },
@@ -118,8 +115,8 @@
         "organization": {
           "name": "Everis",
           "image": {
-            "alt": "Everis",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8b28787e-b90e-454a-94ec-4f2ff554ce7b_08ce6c7fc6b466a44d3b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8b28787e-b90e-454a-94ec-4f2ff554ce7b_08ce6c7fc6b466a44d3b.png",
+            "alt": "Everis"
           },
           "URL": "http://everis.com"
         },
@@ -168,16 +165,38 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
           "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NgRx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
           "type": "technology"
         }
       },
@@ -198,24 +217,6 @@
           "name": "TypeScript",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "RxJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NgRx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -224,14 +225,34 @@
         "degreeAchieved": true,
         "name": "Bachelor's Degree in Informatics Engineering",
         "startDate": "2012-01-01",
-        "finishDate": "2017-01-01",
         "institution": {
           "name": "Universitat Politecnica de Valencia",
           "URL": "https://www.upv.es/titulaciones/GII/index-en.html",
           "image": {
-            "alt": "Bachelor's Degree in Informatics Engineering",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a9d1ebd6-e54c-498c-821d-db8d91d50d22_zphuv.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a9d1ebd6-e54c-498c-821d-db8d91d50d22_zphuv.jpg",
+            "alt": "Bachelor's Degree in Informatics Engineering"
           }
+        },
+        "finishDate": "2017-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -240,12 +261,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/agarciabz/"
+          "URL": "https://www.linkedin.com/in/agarciabz/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/5726629/agustin-garcia"
+          "URL": "https://stackoverflow.com/users/5726629/agustin-garcia",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/agarciabz",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/agarciabz",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "agusgb93@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "669120421",
+          "countryCode": "+34"
         }
       ]
     },
@@ -283,6 +321,30 @@
         "Full-stack Developer",
         "Software Architect"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "RxJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "A challenging project where I have room for improvement, and a good team where anyone can learn from anyone.\nFor the moment I'd like to continue working with Angular but I'd like to do backend development with NodeJS, I'm also interested in NestJS framework.",
+    "goodPractices": "TDD,  Monorepos.",
+    "bookmarks": [
+      {
+        "name": "Monorepos explained"
+      }
+    ]
   }
 }
