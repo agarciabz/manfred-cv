@@ -151,10 +151,6 @@
               {
                 "name": "ETL",
                 "type": "technology"
-              },
-              {
-                "name": "master-data-management",
-                "type": "technology"
               }
             ]
           }
@@ -315,12 +311,6 @@
       ],
       "contactMails": [
         "agusgb93@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "669120421",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
