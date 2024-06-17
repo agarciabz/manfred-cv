@@ -204,6 +204,12 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NgRx",
           "type": "technology"
         }
