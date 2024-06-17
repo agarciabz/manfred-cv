@@ -222,12 +222,6 @@
       },
       {
         "skill": {
-          "name": "RxJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
           "type": "technology"
         }
@@ -361,11 +355,11 @@
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "GraphQL",
         "type": "technology"
       },
       {
-        "name": "RxJS",
+        "name": "React",
         "type": "technology"
       },
       {
