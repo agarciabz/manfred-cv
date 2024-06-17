@@ -186,6 +186,18 @@
       },
       {
         "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CMS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "GraphQL",
           "type": "technology"
         }
