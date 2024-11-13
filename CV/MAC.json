@@ -15,10 +15,10 @@
         "alt": "Foto 2022 edit.jpeg"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJFY0h--JfZg0RgGEY1jHNaYI)",
         "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
+        "region": "Castilla-La Mancha",
+        "municipality": "Albacete"
       }
     },
     "recommendations": [
@@ -320,9 +320,6 @@
           "URL": "https://twitter.com/agarciabz",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "agusgb93@gmail.com"
       ]
     },
     "preferences": {
