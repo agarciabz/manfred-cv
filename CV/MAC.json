@@ -337,6 +337,10 @@
           "type": "technology"
         },
         {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
