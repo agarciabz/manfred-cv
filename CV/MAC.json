@@ -396,7 +396,6 @@
       }
     ],
     "desiredJobDescription": "A good work environment with clear goals and care for product quality, and a good team where anyone can learn from anyone and everybody can have an opinion.\nMy most recent experience is working with React but I wouldn't mind to switch back to Angular. Also I'd like to do backend development with NodeJS and I'm also interested in NestJS framework.",
-    "goodPractices": "TDD,  Monorepos.",
     "bookmarks": [
       {
         "name": "Monorepos explained"
