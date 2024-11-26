@@ -396,6 +396,7 @@
       }
     ],
     "desiredJobDescription": "A good work environment with clear goals and care for product quality, and a good team where anyone can learn from anyone and everybody can have an opinion.\nMy most recent experience is working with React but I wouldn't mind to switch back to Angular. Also I'd like to do backend development with NodeJS and I'm also interested in NestJS framework.",
+    "goodPractices": "When developing frontend application I like to first think of a well structured and scalable architecture of components (sometimes atomic design, sometimes dumb/smart components).\nI try to create components that are as reusable as possible, using Storybook to quickly verify the design.\nI apply clean code and stick to project defined code standards as much as possible.\nI value TDD: it's useful for developing utility functions but I don't use it at all for UI components.\nAt the end of the day I'm a pragmatist and I believe delivering value to a project is the priority, however I always raise the importance of keeping a codebase well maintained through refactoring spikes when possible.",
     "bookmarks": [
       {
         "name": "Monorepos explained"
